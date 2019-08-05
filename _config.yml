@@ -1,6 +1,6 @@
 # main text of home
 name: Tussupbekov Syrym
-bio: 20 y.o software engineer
+bio: 20 y.o software engineer. Co-founder of suratu.io
 
 # twitter summary info
 # description: A blog about technology and stuff related
@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://drive.google.com/open?id=10bbMmJ608BoFf7HfT1AetKlR9Km8rMC7
+resume-url: https://drive.google.com/file/d/10bbMmJ608BoFf7HfT1AetKlR9Km8rMC7/view
 
 url: https://HimekoInaba.github.io
 # your url: http://USERNAME.github.io
@@ -39,11 +39,11 @@ disqus:
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: https://linkedin.com/in/tussupbekov/
+linkedin: tussupbekov
 # youtube: myyoutube
 # spotify: myspotify
-github: https://github.com/HimekoInaba
-gitlab: https://gitlab.com/HimekoInaba
+github: HimekoInaba
+gitlab: HimekoInaba
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
@@ -68,7 +68,7 @@ width: normal
 projects: false
 
 # if you don't need "about" or "blog", comment them out below
-about: false
+about: true
 blog: false
 
 # do you want to show the "read time" of the posts?
