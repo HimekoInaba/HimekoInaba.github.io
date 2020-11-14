@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="10b5163b-08b3-49ec-9774-d34a13b1cd18" name="Default Changelist" comment="" />
+    <list default="true" id="10b5163b-08b3-49ec-9774-d34a13b1cd18" name="Default Changelist" comment="change baseUrl">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,8 +61,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605381656051</updated>
-      <workItem from="1605381657100" duration="738000" />
+      <workItem from="1605381657100" duration="1303000" />
     </task>
+    <task id="LOCAL-00001" summary="change baseUrl">
+      <created>1605383344633</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605383344633</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +86,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="change baseUrl" />
+    <option name="LAST_COMMIT_MESSAGE" value="change baseUrl" />
   </component>
   <component name="WindowStateProjectService">
     <state x="618" y="369" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605383078995">
